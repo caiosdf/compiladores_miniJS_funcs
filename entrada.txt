@@ -1,2 +1,2 @@
-let a = {}, b = [], c = 9
-let __9 = 1.1; let _ = "abc"
+let res;
+res = mdc( 36, 60 );
